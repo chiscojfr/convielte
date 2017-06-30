@@ -9,7 +9,7 @@ To begin using this programing language, choose the following option to get star
 
 ## Creators
 
-ConvieLte was created with love by **[Karla Valcárcel, Tamara Gonzalez, Ricardo A. Casares & José F. Rodríguez](http://davidmiller.io/)**
+ConvieLte was created with love by **[Karla Valcárcel, Tamara Gonzalez, Ricardo A. Casares & José F. Rodríguez]**
 
 * https://twitter.com/chiscojfr
 
