@@ -5,7 +5,7 @@
 ## Getting Started
 
 To begin using this programing language, choose the following option to get started:
-* [Download the latest release on github](https://github.com/chiscojfr/convielte/tree/master/convieLte)
+* [Download the latest release on github](https://github.com/chiscojfr/convielte/raw/master/convieLte/convieLte.zip)
 * Open your terminal, locate the folder to which you extracted the ZIP file.
 * Type "python3 convielte.py"
 * Type 'help' to get the conversion list
