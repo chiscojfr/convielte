@@ -11,7 +11,7 @@ To begin using this programing language, choose the following option to get star
 
 ConvieLte was created with love by **[Karla Valcárcel, Tamara Gonzalez, Ricardo A. Casares & José F. Rodríguez]**
 
-* https://twitter.com/chiscojfr
+* https://twitter.com/chisco_jfr
 
 
 
