@@ -1,13 +1,11 @@
-# [ICOM 4036](http://startbootstrap.com/) - [convieLte](http://startbootstrap.com/template-overviews/landing-page/)
+# [ICOM 4036] - [convieLte]
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[convieLte] A programing language to easily convert between units and more... 
 
 ## Getting Started
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
-* Fork the repo
+To begin using this programing language, choose the following option to get started:
+* [Download the latest release on github](https://github.com/chiscojfr/convielte/tree/master/convieLte)
 
 ## Creators
 
@@ -15,7 +13,7 @@ ConvieLte was created with love by **[Karla Valcárcel, Tamara Gonzalez, Ricardo
 
 * https://twitter.com/chiscojfr
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
 
 ## Copyright and License
 
